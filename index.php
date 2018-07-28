@@ -32,5 +32,5 @@ include 'includes/social.php';
 </div>
 
 
-<?php   ?>
+
 
